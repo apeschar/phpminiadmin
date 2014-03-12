@@ -1,0 +1,5 @@
+This in an improved version of the amazing phpMiniAdmin by Oleg Savchuk. It adds
+the jQuery Autosize plugin for automatic textarea resizing and also uses a
+better font for the query textarea.
+
+Run bin/build.php to get a single file in dist/
